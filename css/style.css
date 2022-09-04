@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+img{
+    max-width: 50%;
+    max-height: 250px;
+    border-radius: 50px;
+    border: 10px solid orange;
+}
+h1{
+    text-align: center;
+padding-bottom: 40px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: lightgreen;
+}
+p{
+    border: 1px solid gold;
+    border-radius: 7px;
+    padding: 10px;
+}
+span hr{
+    color: green;
+}
+/* @media(max-width:768px){
+
+} */
